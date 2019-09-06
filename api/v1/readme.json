@@ -3,7 +3,7 @@
   {
    "name": "Puput",
    "description": "Puput is a powerful and simple Django app to manage a blog. It uses the awesome Wagtail CMS as content management system.",
-   "url": "http://puput.readthedocs.org/",
+   "url": "https://puput.readthedocs.org/",
    "category": "Blogging/news"
   },
   {
@@ -28,6 +28,18 @@
    "name": "Django Wagtail Feeds",
    "description": "Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.",
    "url": "https://github.com/chrisdev/django-wagtail-feeds",
+   "category": "Blogging/news"
+  },
+  {
+   "name": "CodeRed CMS",
+   "description": "a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/",
+   "url": "https://github.com/coderedcorp/coderedcms",
+   "category": "Blogging/news"
+  },
+  {
+   "name": "Snotra_RSS",
+   "description": "Snotra_RSS is an Atom and RSS news aggregator app for Wagtail.",
+   "url": "https://github.com/olopost/snotra_rss",
    "category": "Blogging/news"
   },
   {
@@ -93,7 +105,19 @@
   {
    "name": "wagtail-autocomplete",
    "description": "Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.",
-   "url": "http://github.com/wagtail/wagtail-autocomplete",
+   "url": "https://github.com/wagtail/wagtail-autocomplete",
+   "category": "Widgets"
+  },
+  {
+   "name": "wagtail-instance-selector",
+   "description": "A `ForeignKey` widget to create and select related items. Similar to Django's `raw_id_fields`.",
+   "url": "https://github.com/ixc/wagtail-instance-selector",
+   "category": "Widgets"
+  },
+  {
+   "name": "wagtail-generic-choooser",
+   "description": "provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.",
+   "url": "https://github.com/wagtail/wagtail-generic-chooser",
    "category": "Widgets"
   },
   {
@@ -136,6 +160,18 @@
    "name": "Wagtail Code Block",
    "description": "StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.",
    "url": "https://github.com/FlipperPA/wagtailcodeblock",
+   "category": "StreamField"
+  },
+  {
+   "name": "Wagtail Blocks",
+   "description": "A Collection of awesome Wagtail CMS stream-field blocks and Charts.",
+   "url": "https://github.com/ibrahimawadhamid/wagtail_blocks",
+   "category": "StreamField"
+  },
+  {
+   "name": "Wagtail UI Plus",
+   "description": "Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.",
+   "url": "https://github.com/davidcondenl/wagtailuiplus",
    "category": "StreamField"
   },
   {
@@ -259,6 +295,12 @@
    "category": "Media"
   },
   {
+   "name": "Wagtail-Textract",
+   "description": "Make Wagtail search Documents contents (PDF, Excel and Word, etc.).",
+   "url": "https://github.com/fourdigits/wagtail_textract",
+   "category": "Media"
+  },
+  {
    "name": "Wagtail Modeltranslation",
    "description": "Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation",
    "url": "https://github.com/infoportugal/wagtail-modeltranslation",
@@ -310,6 +352,12 @@
    "name": "Wagtail Factories",
    "description": "Factory boy classes for Wagtail.",
    "url": "https://github.com/mvantellingen/wagtail-factories",
+   "category": "Testing"
+  },
+  {
+   "name": "Wagtail Foliage",
+   "description": "Utilities for programmatically building page trees in Wagtail.",
+   "url": "https://github.com/harrislapiroff/wagtail-foliage",
    "category": "Testing"
   },
   {
@@ -371,6 +419,42 @@
    "description": "Import/Export pages between Wagtail instances.",
    "url": "https://github.com/torchbox/wagtail-import-export",
    "category": "Misc"
+  },
+  {
+   "name": "Wagtail Import/Export Tool",
+   "description": "Refactor of [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.",
+   "url": "https://github.com/berkalpyakici/wagtail-import-export-tool",
+   "category": "Misc"
+  },
+  {
+   "name": "Wagtail Tag Manager",
+   "description": "A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.",
+   "url": "https://github.com/jberghoef/wagtail-tag-manager",
+   "category": "Misc"
+  },
+  {
+   "name": "Wagtail Cache",
+   "description": "A simple page cache for Wagtail using the Django cache middleware.",
+   "url": "https://github.com/coderedcorp/wagtail-cache",
+   "category": "Misc"
+  },
+  {
+   "name": "Wagtail GraphQL",
+   "description": "App to automatically add GraphQL support to a Wagtail website.",
+   "url": "https://github.com/tr11/wagtail-graphql",
+   "category": "Misc"
+  },
+  {
+   "name": "Wagtail Orderable",
+   "description": "Mixin support for drag-and-drop ordering in admin panel.",
+   "url": "https://github.com/elton2048/wagtail-orderable",
+   "category": "Misc"
+  },
+  {
+   "name": "Wagtail Live Preview",
+   "description": "Live page previews beside your content.",
+   "url": "https://github.com/KalobTaulien/wagtail-livepreview",
+   "category": "Misc"
   }
  ],
  "tools": [
@@ -391,6 +475,12 @@
    "description": "A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!",
    "url": "https://github.com/tkjone/starterkit-wagtail",
    "category": ""
+  },
+  {
+   "name": "Wagtail Pipit",
+   "description": "Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
+   "url": "https://github.com/Frojd/Wagtail-Boilerplate",
+   "category": ""
   }
  ],
  "resources": [
@@ -403,7 +493,7 @@
   {
    "name": "Présentation de Wagtail, le dernier CMS Django",
    "description": "Wagtail est un CMS relativement récent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.",
-   "url": "http://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django",
+   "url": "https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django",
    "category": "Getting started"
   },
   {
@@ -411,12 +501,6 @@
    "description": "Working extensively with Wagtail and the surrounding community, we have discovered a range of common pitfalls developers run into when beginning to deliver with Wagtail.",
    "url": "https://vix.digital/insights/getting-started-wagtail/",
    "category": "Getting started"
-  },
-  {
-   "name": "Interactive 360 degree product views as a Wagtail streamfield block",
-   "description": "",
-   "url": "http://www.djangopaths.com/interactive-360-degree-product-views-wagtail-streamfield-block/",
-   "category": "Articles"
   },
   {
    "name": "Extending The Functionality of Email Forms in Wagtail",
@@ -439,19 +523,19 @@
   {
    "name": "Adding document previews to Wagtail CMS",
    "description": "",
-   "url": "http://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/",
+   "url": "https://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/",
    "category": "Articles"
   },
   {
    "name": "Wagtail Tutorials: Build Blog Step by Step",
    "description": "The tutorials teach you how to create a standard blog from scratch step by step.",
-   "url": "https://blog.michaelyin.info/wagtail-tutorials/",
+   "url": "https://www.accordbox.com/blog/wagtail-tutorials/",
    "category": "Articles"
   },
   {
    "name": "Python CMS Framework Review: Wagtail vs Django-CMS",
    "description": "Talk about the difference between Django-CMS and Wagtail, the two most popular CMS framework in Python world.",
-   "url": "https://blog.michaelyin.info/2017/06/19/python-cms-framework-review-wagtail-vs-django-cms/",
+   "url": "https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/",
    "category": "Articles"
   },
   {
@@ -476,6 +560,36 @@
    "name": "Getting started with Draftail extensions",
    "description": "Do you want to write extensions for Draftail? This is a good place to start.",
    "url": "https://thib.me/getting-started-with-draftail-extensions",
+   "category": "Articles"
+  },
+  {
+   "name": "Amplify a Wagtail/Django site",
+   "description": "Prepare you Wagtail site for Accelerated Mobile Pages (AMP).",
+   "url": "https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html",
+   "category": "Articles"
+  },
+  {
+   "name": "Migrating your Drupal content to Wagtail",
+   "description": "",
+   "url": "https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8",
+   "category": "Articles"
+  },
+  {
+   "name": "How to Add Buttons to ModelAdmin Index View",
+   "description": "",
+   "url": "https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/",
+   "category": "Articles"
+  },
+  {
+   "name": "How to Prevent Users from Creating Pages by Type",
+   "description": "",
+   "url": "https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/",
+   "category": "Articles"
+  },
+  {
+   "name": "Drupal Front End WTF, Wagtail Front End FTW",
+   "description": "Comparing Drupal and Wagtail Markup and approach to each CMS",
+   "url": "https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e",
    "category": "Articles"
   },
   {
@@ -582,7 +696,7 @@
   },
   {
    "name": "Introducing Draft.js in Wagtail – Wagtail Space 2018",
-   "description": " Thibaud Colas. [Presentation](http://thib.me/introducing-draft-js-in-wagtail).",
+   "description": " Thibaud Colas. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).",
    "url": "https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s",
    "category": "Presentations"
   },
@@ -665,10 +779,184 @@
    "category": "Presentations"
   },
   {
+   "name": "Wagtail in 2018 – Wagtail Space US 2018",
+   "description": " Tom Dyson.",
+   "url": "https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "What the Wagtail Docs Don't Tell You – Wagtail Space US 2018",
+   "description": " Lacey Williams Henschel.",
+   "url": "https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Django Logging for Wagtail – Wagtail Space US 2018",
+   "description": " Ryan Sullivan.",
+   "url": "https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4",
+   "category": "Presentations"
+  },
+  {
+   "name": "Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018",
+   "description": " Lisa Adams and Codie Roelf.",
+   "url": "https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018",
+   "description": " Harris Lapiroff.",
+   "url": "https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6",
+   "category": "Presentations"
+  },
+  {
+   "name": "Choosing Wagtail for Columbia University – Wagtail Space US 2018",
+   "description": " Zarina Mustapha.",
+   "url": "https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7",
+   "category": "Presentations"
+  },
+  {
+   "name": "Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018",
+   "description": " Ryan Verner.",
+   "url": "https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8",
+   "category": "Presentations"
+  },
+  {
+   "name": "Wagtail in the Cloud – Wagtail Space US 2018",
+   "description": " Daniele Procida.",
+   "url": "https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018",
+   "description": " Michael Harrison.",
+   "url": "https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Learning Wagtail – Wagtail Space US 2018",
+   "description": " Dawn Wages.",
+   "url": "https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Sharing is Caring – Wagtail Space US 2018",
+   "description": " Andy Chosak.",
+   "url": "https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Lightning Talks – Wagtail Space US 2018",
+   "description": "",
+   "url": "https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV",
+   "category": "Presentations"
+  },
+  {
+   "name": "Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018",
+   "description": " Игорь Мосягин",
+   "url": "https://www.youtube.com/watch?v=xPPfTvLS7oQ",
+   "category": "Presentations"
+  },
+  {
+   "name": "The State of Wagtail – Wagtail Space 2019",
+   "description": " Tom Dyson.",
+   "url": "https://youtu.be/MAzZ2lhMhzM?t=592",
+   "category": "Presentations"
+  },
+  {
+   "name": "Image rotation feature – Wagtail Space 2019",
+   "description": " Chris Adams. Code.",
+   "url": "https://youtu.be/MAzZ2lhMhzM?t=2057",
+   "category": "Presentations"
+  },
+  {
+   "name": "Debug templates – Wagtail Space 2019",
+   "description": " Coen van der Kamp.",
+   "url": "https://youtu.be/MAzZ2lhMhzM?t=2264",
+   "category": "Presentations"
+  },
+  {
+   "name": "Wagtail Headless with HATEOAS – Wagtail Space 2019",
+   "description": " Duco Dokter.",
+   "url": "https://youtu.be/MAzZ2lhMhzM?t=2567",
+   "category": "Presentations"
+  },
+  {
+   "name": "Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019",
+   "description": "Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926",
+   "url": "https://youtu.be/MAzZ2lhMhzM?t=2926",
+   "category": "Presentations"
+  },
+  {
+   "name": "[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019",
+   "description": "thoring experiences in Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067",
+   "url": "https://youtu.be/MAzZ2lhMhzM?t=4067",
+   "category": "Presentations"
+  },
+  {
+   "name": "Wagtail & Whatsapp – Wagtail Space 2019",
+   "description": " Lisa Adams & Codie Roelf.",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=47",
+   "category": "Presentations"
+  },
+  {
+   "name": "Slack2Wagtail – Wagtail Space 2019",
+   "description": " Coen van der Kamp & Lucas Moeskops.",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=785",
+   "category": "Presentations"
+  },
+  {
+   "name": "Wagtail and Oscar – Wagtail Space 2019",
+   "description": " Lars van de Kerkhof.",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=1634",
+   "category": "Presentations"
+  },
+  {
+   "name": "wagtail-textract – Wagtail Space 2019",
+   "description": " Kees Hink. [Code](https://github.com/fourdigits/wagtail_textract).",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=3313",
+   "category": "Presentations"
+  },
+  {
+   "name": "Django 2.2 compatibility – Wagtail Space 2019",
+   "description": " Matt Wescott.",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=3468",
+   "category": "Presentations"
+  },
+  {
+   "name": "SEO dashboard – Wagtail Space 2019",
+   "description": " Janneke Janssen. [Code](https://github.com/LUKKIEN/wagtail-marketing-addons).",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=3937",
+   "category": "Presentations"
+  },
+  {
+   "name": "My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019",
+   "description": " Arifin Ibne Matin.",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=4126",
+   "category": "Presentations"
+  },
+  {
+   "name": "Fly, Wagtail, fly! – Wagtail Space 2019",
+   "description": " Daniele Procida.",
+   "url": "https://youtu.be/CSwpj-jyjP4?t=4404",
+   "category": "Presentations"
+  },
+  {
+   "name": "Wagtail & GraphQL – Wagtail Space 2019",
+   "description": " Arthur Bayr.",
+   "url": "https://youtu.be/YydSbL8gMS4?t=24",
+   "category": "Presentations"
+  },
+  {
    "name": "Podcast.__init__ Episode 58 - Wagtail with Tom Dyson",
    "description": "In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.",
    "url": "https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/",
    "category": "Podcasts"
+  },
+  {
+   "name": "Learn Wagtail",
+   "description": "Regular video tutorials about all aspects of Wagtail.",
+   "url": "https://learnwagtail.com/",
+   "category": "Videos"
   },
   {
    "name": "Wagtail screencasts: Creating and displaying pages in Wagtail",
@@ -725,9 +1013,15 @@
    "category": "Videos"
   },
   {
+   "name": "How to Deploy Wagtail to Google App Engine",
+   "description": "Focus is Google Cloud Platform but a great introduction on how to get Wagtail up and running in their PAAS.",
+   "url": "https://www.youtube.com/watch?v=uD9PTag2-PQ",
+   "category": "Videos"
+  },
+  {
    "name": "Made with Wagtail",
    "description": "A showcase of sites and apps made with Wagtail CMS.",
-   "url": "http://madewithwagtail.org/",
+   "url": "https://madewithwagtail.org/",
    "category": "Showcases"
   },
   {
@@ -739,7 +1033,7 @@
   {
    "name": "PyPI - Python Package Index",
    "description": "Wagtail packages on the Python Package Index.",
-   "url": "https://pypi.python.org/pypi?%3Aaction=search&term=Wagtail&submit=search",
+   "url": "https://pypi.org/search/?q=Wagtail",
    "category": "Lists"
   },
   {
@@ -857,9 +1151,21 @@
    "description": "Bow Valley SPCA website.",
    "url": "https://github.com/nfletton/bvspca",
    "category": ""
+  },
+  {
+   "name": "Project TIER",
+   "description": "Teaching Integrity in Empirical Research.",
+   "url": "https://github.com/ProjectTIER/projecttier.org",
+   "category": ""
+  },
+  {
+   "name": "SecureDrop",
+   "description": "Wagtail-powered website of the SecureDrop whistleblower document submission system.",
+   "url": "https://github.com/freedomofpress/securedrop.org",
+   "category": ""
   }
  ],
  "metadata": {
-  "updated": "2018-06-29T02:57:43.039137Z"
+  "updated": "2019-09-06T01:50:35.683000Z"
  }
 }

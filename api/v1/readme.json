@@ -301,6 +301,12 @@
    "category": "Media"
   },
   {
+   "name": "Wagtail-Lazyimages",
+   "description": "A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.",
+   "url": "https://github.com/ptrck/wagtail-lazyimages",
+   "category": "Media"
+  },
+  {
    "name": "Wagtail Modeltranslation",
    "description": "Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation",
    "url": "https://github.com/infoportugal/wagtail-modeltranslation",
@@ -1166,6 +1172,6 @@
   }
  ],
  "metadata": {
-  "updated": "2019-09-08T21:27:42.160916Z"
+  "updated": "2019-09-11T17:11:38.863396Z"
  }
 }

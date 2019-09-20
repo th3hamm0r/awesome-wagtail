@@ -953,6 +953,72 @@
    "category": "Presentations"
   },
   {
+   "name": "Writing (code) for authors – Wagtail Space US 2019",
+   "description": "r authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1",
+   "url": "https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1",
+   "category": "Presentations"
+  },
+  {
+   "name": "Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019",
+   "description": " Timothy Allen.",
+   "url": "https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2",
+   "category": "Presentations"
+  },
+  {
+   "name": "Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019",
+   "description": " Vince Salvino.",
+   "url": "https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3",
+   "category": "Presentations"
+  },
+  {
+   "name": "Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019",
+   "description": " Zarina Mustapha.",
+   "url": "https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4",
+   "category": "Presentations"
+  },
+  {
+   "name": "Making Wagtail Accessible – Wagtail Space US 2019",
+   "description": " Thibaud Colas. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).",
+   "url": "https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5",
+   "category": "Presentations"
+  },
+  {
+   "name": "Everyone can fly a flag – Wagtail Space US 2019",
+   "description": " Will Barton. [Slides](https://docs.google.com/presentation/d/1-A1doke2ylcqG72oIP-MLiX8SKXKkKNxQeKxddYUGBw/edit).",
+   "url": "https://www.youtube.com/watch?v=ZqwmgsqMTEs&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=6",
+   "category": "Presentations"
+  },
+  {
+   "name": "Architecting for a multi-domain site – Wagtail Space US 2019",
+   "description": " Ben Beecher. [Slides](https://slides.com/benbeecher/mds/).",
+   "url": "https://www.youtube.com/watch?v=xMbJmHF7kCw&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=7",
+   "category": "Presentations"
+  },
+  {
+   "name": "Contributions can be more than code – Wagtail Space US 2019",
+   "description": " Kalob Taulien.",
+   "url": "https://www.youtube.com/watch?v=tK-3kEBbblg&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=8",
+   "category": "Presentations"
+  },
+  {
+   "name": "Thoughtful Code Review – Wagtail Space US 2019",
+   "description": " Naomi Morduch Toubman. [Slides](https://docs.google.com/presentation/d/1b_Hda8381G6mMc7uzYDc2EYjocfwSi2TYiRMI7d4e3I/).",
+   "url": "https://www.youtube.com/watch?v=RY0K1BEV-_U&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=9",
+   "category": "Presentations"
+  },
+  {
+   "name": "Solving your problems by spelunking the Wagtail code – Wagtail Space US 2019",
+   "description": "",
+   "url": "https://www.youtube.com/watch?v=BMoOhjgirFM&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=10",
+   "category": "Presentations"
+  },
+  {
+   "name": "The State of Wagtail: 2019 – Wagtail Space US 2019",
+   "description": " Tom Dyson.",
+   "url": "https://www.youtube.com/watch?v=s29vaGnFcq8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=11",
+   "category": "Presentations"
+  },
+  {
    "name": "Podcast.__init__ Episode 58 - Wagtail with Tom Dyson",
    "description": "In this episode Tom Dyson explains how Wagtail came to be created, what sets it apart from other options, and when you should implement it for your projects.",
    "url": "https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/",
@@ -1172,6 +1238,6 @@
   }
  ],
  "metadata": {
-  "updated": "2019-09-11T17:11:38.863396Z"
+  "updated": "2019-09-20T05:16:26.177611Z"
  }
 }

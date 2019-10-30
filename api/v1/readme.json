@@ -97,6 +97,12 @@
    "category": "Widgets"
   },
   {
+   "name": "wagtail-leaflet-widget",
+   "description": "A Leaflet JS - OSM based wagtail geo-location widget.",
+   "url": "https://github.com/icpac-igad/wagtail-leaflet-widget",
+   "category": "Widgets"
+  },
+  {
    "name": "wagtail-markdown",
    "description": "Markdown fields and blocks for Wagtail.",
    "url": "https://github.com/torchbox/wagtail-markdown",
@@ -1238,6 +1244,6 @@
   }
  ],
  "metadata": {
-  "updated": "2019-09-20T05:16:26.177611Z"
+  "updated": "2019-10-30T21:59:17.008674Z"
  }
 }

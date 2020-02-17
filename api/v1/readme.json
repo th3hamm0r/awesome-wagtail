@@ -241,6 +241,12 @@
    "category": "SEO and SMO"
   },
   {
+   "name": "wagtail-opengraph-image-generator",
+   "description": "Assists you in automatically creating Open Graph images for your Wagtail pages.",
+   "url": "https://github.com/candylabshq/wagtail-opengraph-image-generator",
+   "category": "SEO and SMO"
+  },
+  {
    "name": "Wagtail Analytics",
    "description": "A Google Analytics dashboard in your Wagtail admin.",
    "url": "https://github.com/tomdyson/wagalytics",
@@ -373,12 +379,6 @@
    "category": "Testing"
   },
   {
-   "name": "Wagtail Plus",
-   "description": "Modular add-ons for Wagtail CMS.",
-   "url": "https://github.com/rfosterslo/wagtailplus",
-   "category": "Misc"
-  },
-  {
    "name": "wagtailmenus",
    "description": "An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.",
    "url": "https://github.com/rkhleics/wagtailmenus",
@@ -467,6 +467,12 @@
    "description": "Live page previews beside your content.",
    "url": "https://github.com/KalobTaulien/wagtail-livepreview",
    "category": "Misc"
+  },
+  {
+   "name": "Wagtail Resume",
+   "description": "A Wagtail project made to simplify creation of resumes for developers.",
+   "url": "https://github.com/adinhodovic/wagtail-resume",
+   "category": "Misc"
   }
  ],
  "tools": [
@@ -492,6 +498,12 @@
    "name": "Wagtail Pipit",
    "description": "Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
    "url": "https://github.com/Frojd/Wagtail-Boilerplate",
+   "category": ""
+  },
+  {
+   "name": "Django Cookiecutter Wagtail",
+   "description": "A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.",
+   "url": "https://github.com/Jean-Zombie/cookiecutter-django-wagtail",
    "category": ""
   }
  ],
@@ -1241,9 +1253,15 @@
    "description": "Wagtail-powered website of the SecureDrop whistleblower document submission system.",
    "url": "https://github.com/freedomofpress/securedrop.org",
    "category": ""
+  },
+  {
+   "name": "Consumer Financial Protection Bureau",
+   "description": "The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.",
+   "url": "https://github.com/cfpb/cfgov-refresh",
+   "category": ""
   }
  ],
  "metadata": {
-  "updated": "2019-10-30T21:59:17.008674Z"
+  "updated": "2020-02-17T21:03:24.390431Z"
  }
 }

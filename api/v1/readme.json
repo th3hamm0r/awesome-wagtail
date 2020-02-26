@@ -247,6 +247,12 @@
    "category": "SEO and SMO"
   },
   {
+   "name": "wagtail-redirect-importer",
+   "description": "Your friendly neighborhood importer that lets you import redirects from different tabular data formats, such as .csv and .xls ",
+   "url": "https://github.com/Frojd/wagtail-redirect-importer",
+   "category": "SEO and SMO"
+  },
+  {
    "name": "Wagtail Analytics",
    "description": "A Google Analytics dashboard in your Wagtail admin.",
    "url": "https://github.com/tomdyson/wagalytics",
@@ -1268,6 +1274,6 @@
   }
  ],
  "metadata": {
-  "updated": "2020-02-26T17:45:33.684669Z"
+  "updated": "2020-02-26T17:46:42.781615Z"
  }
 }

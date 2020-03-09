@@ -1049,6 +1049,12 @@
    "category": "Podcasts"
   },
   {
+   "name": "Django Chat: Wagtail CMS - Tom Dyson",
+   "description": "An interview with Tom Dyson on Wagtail, the leading Django-based CMS used by tens of thousands of organizations including Google, NASA, and the British NHS.",
+   "url": "https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson",
+   "category": "Podcasts"
+  },
+  {
    "name": "Learn Wagtail",
    "description": "Regular video tutorials about all aspects of Wagtail.",
    "url": "https://learnwagtail.com/",
@@ -1268,6 +1274,6 @@
   }
  ],
  "metadata": {
-  "updated": "2020-02-26T17:50:24.206121Z"
+  "updated": "2020-03-09T11:13:34.270982Z"
  }
 }

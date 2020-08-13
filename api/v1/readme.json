@@ -127,6 +127,18 @@
    "category": "Widgets"
   },
   {
+   "name": "wagtail-multi-upload",
+   "description": "allows uploading of multiple related images for a page.",
+   "url": "https://github.com/spapas/wagtail-multi-upload",
+   "category": "Widgets"
+  },
+  {
+   "name": "wagtail-color-panel",
+   "description": "Introduces panels for selecting colors in Wagtail.",
+   "url": "https://github.com/marteinn/wagtail-color-panel",
+   "category": "Widgets"
+  },
+  {
    "name": "Wagtail FontAwesome",
    "description": "Add FontAwesome icons to StreamField.",
    "url": "https://gitlab.com/alexgleason/wagtailfontawesome",
@@ -178,6 +190,12 @@
    "name": "Wagtail UI Plus",
    "description": "Several UI improvements to the Wagtail editor interface for StreamFields and StreamBlocks.",
    "url": "https://github.com/davidcondenl/wagtailuiplus",
+   "category": "StreamField"
+  },
+  {
+   "name": "Wagtail Cache Block",
+   "description": "A templatetag which add HTML fragment cache to your StreamField block",
+   "url": "https://github.com/AccordBox/wagtail_cache_block",
    "category": "StreamField"
   },
   {
@@ -250,6 +268,12 @@
    "name": "wagtail-redirect-importer",
    "description": "Your friendly neighborhood importer that lets you import redirects from different tabular data formats, such as .csv and .xls ",
    "url": "https://github.com/Frojd/wagtail-redirect-importer",
+   "category": "SEO and SMO"
+  },
+  {
+   "name": "wagtail-meta-preview",
+   "description": "Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.",
+   "url": "https://github.com/rinti/wagtail-meta-preview",
    "category": "SEO and SMO"
   },
   {
@@ -349,6 +373,12 @@
    "category": "Forms"
   },
   {
+   "name": "Wagtail Simple Captcha",
+   "description": "A self-hosted alternative to Wagtail ReCaptcha that easily integrates a [django-simple-captcha](https://github.com/mbi/django-simple-captcha",
+   "url": "https://github.com/acarasimon96/wagtail-django-simple-captcha",
+   "category": "Forms"
+  },
+  {
    "name": "wagtailstreamforms",
    "description": "Build forms in Wagtail's admin for use in streamfields.",
    "url": "https://github.com/AccentDesign/wagtailstreamforms",
@@ -383,6 +413,12 @@
    "description": "Utilities for programmatically building page trees in Wagtail.",
    "url": "https://github.com/harrislapiroff/wagtail-foliage",
    "category": "Testing"
+  },
+  {
+   "name": "wagtail-admin-list-controls",
+   "description": "Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.",
+   "url": "https://github.com/ixc/wagtail-admin-list-controls",
+   "category": "Modeladmin"
   },
   {
    "name": "wagtailmenus",
@@ -620,6 +656,18 @@
    "name": "Drupal Front End WTF, Wagtail Front End FTW",
    "description": "Comparing Drupal and Wagtail Markup and approach to each CMS",
    "url": "https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e",
+   "category": "Articles"
+  },
+  {
+   "name": "How to Create and Manage Menus of Wagtail application",
+   "description": "",
+   "url": "https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/",
+   "category": "Articles"
+  },
+  {
+   "name": "PythonEatsTail",
+   "description": "Complete written and video tutorials to create a Wagtail site with multiple languages, authentication and more",
+   "url": "https://pythoneatstail.com",
    "category": "Articles"
   },
   {
@@ -1274,6 +1322,6 @@
   }
  ],
  "metadata": {
-  "updated": "2020-03-09T11:13:34.270982Z"
+  "updated": "2020-08-13T07:32:05.047785Z"
  }
 }

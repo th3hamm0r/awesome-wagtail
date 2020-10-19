@@ -121,7 +121,7 @@
    "category": "Widgets"
   },
   {
-   "name": "wagtail-generic-choooser",
+   "name": "wagtail-generic-chooser",
    "description": "provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.",
    "url": "https://github.com/wagtail/wagtail-generic-chooser",
    "category": "Widgets"
@@ -1225,9 +1225,9 @@
    "category": ""
   },
   {
-   "name": "Federal Electoral Commission",
+   "name": "Federal Election Commission",
    "description": "The content management system (CMS",
-   "url": "https://github.com/18F/fec-cms",
+   "url": "https://github.com/fecgov/fec-cms",
    "category": ""
   },
   {
@@ -1322,6 +1322,6 @@
   }
  ],
  "metadata": {
-  "updated": "2020-08-13T07:32:05.047785Z"
+  "updated": "2020-10-19T13:24:00.451395Z"
  }
 }

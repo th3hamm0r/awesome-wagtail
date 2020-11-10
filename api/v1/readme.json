@@ -343,6 +343,12 @@
    "category": "Media"
   },
   {
+   "name": "Wagtail Image Import",
+   "description": "A plugin for importing images from Google Drive. ",
+   "url": "https://github.com/jacobtoppm/wagtail-image-import",
+   "category": "Media"
+  },
+  {
    "name": "Wagtail Modeltranslation",
    "description": "Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation",
    "url": "https://github.com/infoportugal/wagtail-modeltranslation",
@@ -515,6 +521,12 @@
    "description": "A Wagtail project made to simplify creation of resumes for developers.",
    "url": "https://github.com/adinhodovic/wagtail-resume",
    "category": "Misc"
+  },
+  {
+   "name": "Wagtail Content Import",
+   "description": "Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.",
+   "url": "https://github.com/torchbox/wagtail-content-import",
+   "category": "Misc"
   }
  ],
  "tools": [
@@ -674,6 +686,12 @@
    "name": "Oscar Wagtail demo project",
    "description": "A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.",
    "url": "https://github.com/LUKKIEN/oscar-wagtail-demo",
+   "category": "Recipes"
+  },
+  {
+   "name": "Serafeim's Wagtail FAQ",
+   "description": "Answers and recipes for Wagtail",
+   "url": "https://github.com/spapas/wagtail-faq",
    "category": "Recipes"
   },
   {
@@ -1322,6 +1340,6 @@
   }
  ],
  "metadata": {
-  "updated": "2020-10-19T13:24:00.451395Z"
+  "updated": "2020-11-10T10:52:05.724914Z"
  }
 }

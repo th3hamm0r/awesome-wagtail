@@ -43,6 +43,18 @@
    "category": "Blogging/news"
   },
   {
+   "name": "Wagtail bootstrap blog",
+   "description": "A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.",
+   "url": "https://github.com/AccordBox/wagtail-bootstrap-blog",
+   "category": "Blogging/news"
+  },
+  {
+   "name": "Wagtail react blog",
+   "description": "SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.",
+   "url": "https://github.com/AccordBox/wagtail-react-blog",
+   "category": "Blogging/news"
+  },
+  {
    "name": "wagtail-readability",
    "description": "Test how readable the content you enter into Wagtail is.",
    "url": "https://github.com/takeflight/wagtail-readability",
@@ -277,6 +289,12 @@
    "category": "SEO and SMO"
   },
   {
+   "name": "Wagtail Yoast",
+   "description": "A tool to improve readability of your texts with SEO recommendations.",
+   "url": "https://github.com/Aleksi44/wagtailyoast",
+   "category": "SEO and SMO"
+  },
+  {
    "name": "Wagtail Analytics",
    "description": "A Google Analytics dashboard in your Wagtail admin.",
    "url": "https://github.com/tomdyson/wagalytics",
@@ -346,6 +364,12 @@
    "name": "Wagtail Image Import",
    "description": "A plugin for importing images from Google Drive. ",
    "url": "https://github.com/jacobtoppm/wagtail-image-import",
+   "category": "Media"
+  },
+  {
+   "name": "Wagtail SVG",
+   "description": "A Wagtail module for managing SVG files within the admin.",
+   "url": "https://github.com/Aleksi44/wagtailsvg",
    "category": "Media"
   },
   {
@@ -527,6 +551,12 @@
    "description": "Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.",
    "url": "https://github.com/torchbox/wagtail-content-import",
    "category": "Misc"
+  },
+  {
+   "name": "Wagtail Trash",
+   "description": "Will place pages in a trash can from where they can be restored instead of being permanently deleted.",
+   "url": "https://github.com/Frojd/wagtail-trash",
+   "category": "Misc"
   }
  ],
  "tools": [
@@ -558,6 +588,12 @@
    "name": "Django Cookiecutter Wagtail",
    "description": "A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.",
    "url": "https://github.com/Jean-Zombie/cookiecutter-django-wagtail",
+   "category": ""
+  },
+  {
+   "name": "wagtail-webpack-dokku",
+   "description": "A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.",
+   "url": "https://github.com/helixsoftco/wagtail-webpack-dokku/",
    "category": ""
   }
  ],
@@ -1337,9 +1373,15 @@
    "description": "The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.",
    "url": "https://github.com/cfpb/cfgov-refresh",
    "category": ""
+  },
+  {
+   "name": "WesternFriend",
+   "description": "community website with directory, ecommerce, and online subscription",
+   "url": "https://github.com/WesternFriend/WF-website",
+   "category": ""
   }
  ],
  "metadata": {
-  "updated": "2020-11-10T10:52:05.724914Z"
+  "updated": "2021-04-29T06:07:38.282429Z"
  }
 }

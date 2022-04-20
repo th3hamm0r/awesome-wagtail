@@ -9,7 +9,7 @@
   {
    "name": "wagtail_blog",
    "description": "A WordPress-like blog app implemented in Wagtail.",
-   "url": "https://github.com/thelabnyc/wagtail_blog",
+   "url": "https://gitlab.com/thelabnyc/wagtail_blog",
    "category": "Blogging/news"
   },
   {
@@ -31,27 +31,9 @@
    "category": "Blogging/news"
   },
   {
-   "name": "CodeRed CMS",
-   "description": "a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/",
-   "url": "https://github.com/coderedcorp/coderedcms",
-   "category": "Blogging/news"
-  },
-  {
    "name": "Snotra_RSS",
    "description": "Snotra_RSS is an Atom and RSS news aggregator app for Wagtail.",
    "url": "https://github.com/olopost/snotra_rss",
-   "category": "Blogging/news"
-  },
-  {
-   "name": "Wagtail bootstrap blog",
-   "description": "A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.",
-   "url": "https://github.com/AccordBox/wagtail-bootstrap-blog",
-   "category": "Blogging/news"
-  },
-  {
-   "name": "Wagtail react blog",
-   "description": "SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.",
-   "url": "https://github.com/AccordBox/wagtail-react-blog",
    "category": "Blogging/news"
   },
   {
@@ -373,6 +355,12 @@
    "category": "Media"
   },
   {
+   "name": "Wagtail Makeup",
+   "description": "A plugin that replaces all your images with [Unsplash](https://unsplash.com/",
+   "url": "https://github.com/kevinhowbrook/wagtail-makeup",
+   "category": "Media"
+  },
+  {
    "name": "Wagtail Modeltranslation",
    "description": "Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation",
    "url": "https://github.com/infoportugal/wagtail-modeltranslation",
@@ -418,6 +406,12 @@
    "name": "wagtail-contact-reply",
    "description": "Reply directly to form submissions from the Wagtail admin",
    "url": "https://github.com/KalobTaulien/wagtail-contact-reply",
+   "category": "Forms"
+  },
+  {
+   "name": "Wagtail JotForm",
+   "description": "Embeddable Jotform forms for Wagtail pages.",
+   "url": "https://github.com/kevinhowbrook/wagtail-jotform",
    "category": "Forms"
   },
   {
@@ -499,6 +493,12 @@
    "category": "Misc"
   },
   {
+   "name": "Wagtail Transfer",
+   "description": "An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project",
+   "url": "https://github.com/wagtail/wagtail-transfer",
+   "category": "Misc"
+  },
+  {
    "name": "Wagtail Import Export",
    "description": "Import/Export pages between Wagtail instances.",
    "url": "https://github.com/torchbox/wagtail-import-export",
@@ -557,6 +557,12 @@
    "description": "Will place pages in a trash can from where they can be restored instead of being permanently deleted.",
    "url": "https://github.com/Frojd/wagtail-trash",
    "category": "Misc"
+  },
+  {
+   "name": "Wagtail PDF View",
+   "description": "Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.",
+   "url": "https://github.com/donhauser/wagtail-pdf",
+   "category": "Misc"
   }
  ],
  "tools": [
@@ -564,37 +570,55 @@
    "name": "Wagtail Cookiecutter Foundation",
    "description": "A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.",
    "url": "https://github.com/chrisdev/wagtail-cookiecutter-foundation",
-   "category": ""
+   "category": "Templates & Starter Kits"
   },
   {
    "name": "Beginner Wagtail Cookiecutter",
    "description": "A super simple implementation of Wagtail CMS.",
    "url": "https://github.com/heymonkeyriot/beginner-wagtail",
-   "category": ""
+   "category": "Templates & Starter Kits"
   },
   {
    "name": "Wagtail Starter Kit",
    "description": "A cookiecutter complete with wagtail, django layout, vagrant, provisioning scrips, front end build system and more!",
    "url": "https://github.com/tkjone/starterkit-wagtail",
-   "category": ""
+   "category": "Templates & Starter Kits"
   },
   {
    "name": "Wagtail Pipit",
    "description": "Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.",
    "url": "https://github.com/Frojd/Wagtail-Boilerplate",
-   "category": ""
+   "category": "Templates & Starter Kits"
   },
   {
    "name": "Django Cookiecutter Wagtail",
    "description": "A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.",
    "url": "https://github.com/Jean-Zombie/cookiecutter-django-wagtail",
-   "category": ""
+   "category": "Templates & Starter Kits"
   },
   {
    "name": "wagtail-webpack-dokku",
    "description": "A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.",
    "url": "https://github.com/helixsoftco/wagtail-webpack-dokku/",
-   "category": ""
+   "category": "Templates & Starter Kits"
+  },
+  {
+   "name": "Wagtail bootstrap blog",
+   "description": "A Wagtail blog which has Bootstrap theme, supports writing in `Markdown`, `Latex`. It also has comment workflow, comment form supports `Mention` and `Emoji`. Frontend is built by `Webpack`, `Babel` and `SCSS`.",
+   "url": "https://github.com/AccordBox/wagtail-bootstrap-blog",
+   "category": "Templates & Starter Kits"
+  },
+  {
+   "name": "Wagtail react blog",
+   "description": "SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.",
+   "url": "https://github.com/AccordBox/wagtail-react-blog",
+   "category": "Templates & Starter Kits"
+  },
+  {
+   "name": "CodeRed CMS",
+   "description": "a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/",
+   "url": "https://github.com/coderedcorp/coderedcms",
+   "category": "Templates & Starter Kits"
   }
  ],
  "resources": [
@@ -728,6 +752,12 @@
    "name": "Serafeim's Wagtail FAQ",
    "description": "Answers and recipes for Wagtail",
    "url": "https://github.com/spapas/wagtail-faq",
+   "category": "Recipes"
+  },
+  {
+   "name": "Consumer Financial Protection Bureau Wagtail development guide",
+   "description": "Unit Testing Django and Wagtail",
+   "url": "https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md",
    "category": "Recipes"
   },
   {
@@ -1382,6 +1412,6 @@
   }
  ],
  "metadata": {
-  "updated": "2021-04-29T06:07:38.282429Z"
+  "updated": "2022-04-20T20:07:20.321455Z"
  }
 }
